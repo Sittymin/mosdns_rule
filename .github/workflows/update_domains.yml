@@ -21,7 +21,7 @@ jobs:
           # 定义文件路径
           REJECT_LIST_URL="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"
           DOMAINS_WILD_URL="https://big.oisd.nl/domainswild2"
-          OUTPUT_FILE="domains.txt"
+          OUTPUT_FILE="ads.txt"
 
           # 下载文件
           curl -s "$REJECT_LIST_URL" -o reject-list.txt
@@ -41,10 +41,10 @@ jobs:
           git config --global user.email "actions@github.com"
 
           # 如果文件有变化，则提交
-          git add domains.txt
+          git add ads.txt
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update domains list"
+            git commit -m "Update ads domains list"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Sittymin/mosdns_rule.git main
           fi
