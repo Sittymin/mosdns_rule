@@ -1,0 +1,50 @@
+name: Update Domains List
+
+on:
+  schedule:
+    # 每天凌晨 2 点运行一次
+    - cron: '0 2 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-domains:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 下载并处理文件
+      - name: Download and process domains files
+        run: |
+          # 定义文件路径
+          REJECT_LIST_URL="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"
+          DOMAINS_WILD_URL="https://big.oisd.nl/domainswild2"
+          OUTPUT_FILE="domains.txt"
+
+          # 下载文件
+          curl -s "$REJECT_LIST_URL" -o reject-list.txt
+          curl -s "$DOMAINS_WILD_URL" -o domainswild2.txt
+
+          # 清理文件内容并格式化
+          cat reject-list.txt domainswild2.txt | \
+            grep -v '^#' | grep -v '^\s*$' | sed 's/^/domain:/' | sort | uniq > "$OUTPUT_FILE"
+
+          # 删除临时文件
+          rm reject-list.txt domainswild2.txt
+
+      # 提交更新后的文件
+      - name: Commit updated domains file
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          # 如果文件有变化，则提交
+          git add domains.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update domains list"
+            git push
+          fi
