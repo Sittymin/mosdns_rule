@@ -15,13 +15,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 下载并处理文件
-      - name: Download and process domains files
+      # 下载并处理 ads 文件
+      - name: Download and process ads domains files
         run: |
           # 定义文件路径
           REJECT_LIST_URL="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"
           DOMAINS_WILD_URL="https://big.oisd.nl/domainswild2"
-          OUTPUT_FILE="ads.txt"
+          ADS_OUTPUT_FILE="ads.txt"
 
           # 下载文件
           curl -s "$REJECT_LIST_URL" -o reject-list.txt
@@ -29,22 +29,41 @@ jobs:
 
           # 清理文件内容并格式化
           cat reject-list.txt domainswild2.txt | \
-            grep -v '^#' | grep -v '^\s*$' | sed 's/^/domain:/' | sort | uniq > "$OUTPUT_FILE"
+            grep -v '^#' | grep -v '^\s*$' | sed 's/^/domain:/' | sort | uniq > "$ADS_OUTPUT_FILE"
 
           # 删除临时文件
           rm reject-list.txt domainswild2.txt
 
+      # 下载并处理 proxy 文件
+      - name: Download and process proxy domains file
+        run: |
+          # 定义文件路径
+          PROXY_LIST_URL="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
+          PROXY_OUTPUT_FILE="proxy.txt"
+
+          # 下载文件
+          curl -s "$PROXY_LIST_URL" -o proxy-list.txt
+
+          # 清理文件内容并格式化
+          cat proxy-list.txt | \
+            grep -v '^#' | grep -v '^\s*$' | sed 's/^/domain:/' | sort | uniq > "$PROXY_OUTPUT_FILE"
+
+          # 删除临时文件
+          rm proxy-list.txt
+
       # 提交更新后的文件
-      - name: Commit updated domains file
+      - name: Commit updated domains files
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
+          # 添加 ads.txt 和 proxy.txt
+          git add ads.txt proxy.txt
+
           # 如果文件有变化，则提交
-          git add ads.txt
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update ads domains list"
+            git commit -m "Update domains lists (ads.txt and proxy.txt)"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Sittymin/mosdns_rule.git main
           fi
