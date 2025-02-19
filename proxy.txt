@@ -423,6 +423,7 @@ domain:5w.ag
 domain:5xsq.com
 domain:6-ar.com
 domain:60plusmilfs.com
+domain:611study.icu
 domain:61jxbs42.xyz
 domain:62fh1bnj.me
 domain:634.tv
@@ -19586,6 +19587,7 @@ domain:news.seehua.com
 domain:news.sina.com.hk
 domain:news.sina.com.tw
 domain:news.singtao.ca
+domain:news1.kr
 domain:news100.com.tw
 domain:newsadds.com.au
 domain:newsamerica.com
@@ -21558,6 +21560,7 @@ domain:pictoa.com
 domain:pictocum.com
 domain:picturedip.com
 domain:picturesocial.com
+domain:picuki.com
 domain:pieceofplastic.com
 domain:pier18.ac.uk
 domain:pifpafarabia.com
@@ -25767,7 +25770,6 @@ domain:stroud.ac.uk
 domain:stroudcol.ac.uk
 domain:stroudcollege.ac.uk
 domain:sttc.ac.uk
-domain:student.tw
 domain:studentengagement.ac.uk
 domain:studentsforafreetibet.org
 domain:studentshows.ac.uk
