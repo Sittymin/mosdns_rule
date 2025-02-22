@@ -6177,6 +6177,7 @@ domain:cindymovies.com
 domain:cineastentreff.de
 domain:cinemax.com
 domain:cinepornogratis.com
+domain:cinny.in
 domain:cios.org
 domain:ciota.ac.uk
 domain:cipfg.org
@@ -8182,6 +8183,7 @@ domain:drweb.co.jp
 domain:drweb.com
 domain:drweb.fr
 domain:drweb.kz
+domain:drweb.ru
 domain:drweb.uz
 domain:dscis.ac.uk
 domain:dscn.info
@@ -10311,6 +10313,7 @@ domain:flowfront.com
 domain:flowfront.net
 domain:flowhongkong.net
 domain:flowtype.org
+domain:fluffychat.im
 domain:fluidfxapp.com
 domain:fluidpreview.com
 domain:fluids.ac.uk
@@ -12551,6 +12554,7 @@ domain:grids.ac.uk
 domain:grimsby.ac.uk
 domain:grimsbytec.ac.uk
 domain:grindr.com
+domain:grok.com
 domain:grooby.com
 domain:groq.com
 domain:grotty-monday.com
@@ -19646,6 +19650,8 @@ domain:nexcat.com
 domain:nexitally.com
 domain:nexitallysafe.com
 domain:nexitcore.com
+domain:nexo.com
+domain:nexo.io
 domain:nexon.co.jp
 domain:nexon.com
 domain:nexon.io
@@ -21672,7 +21678,9 @@ domain:pixelqi.com
 domain:pixfs.net
 domain:pixhost.to
 domain:pixinsight.com.tw
+domain:pixiv-recommend.net
 domain:pixiv.co.jp
+domain:pixiv.help
 domain:pixiv.me
 domain:pixiv.net
 domain:pixiv.org
