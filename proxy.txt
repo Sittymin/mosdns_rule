@@ -6540,6 +6540,7 @@ domain:cods-nursing.ac.uk
 domain:coedcherry.com
 domain:coem.ac.uk
 domain:cof.ac.uk
+domain:cofacts.tw
 domain:cogc.ac.uk
 domain:coin2co.in
 domain:coinalyze.net
