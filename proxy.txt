@@ -769,6 +769,7 @@ domain:acmetoy.com
 domain:acmvalidations.com
 domain:acmvalidationsaws.com
 domain:acnw.com.au
+domain:acousticbrainz.org
 domain:acoustics.ac.uk
 domain:acp.ac.uk
 domain:acpica.com
@@ -821,6 +822,7 @@ domain:adeptt.ac.uk
 domain:adgoogle.net
 domain:adguard-dns.com
 domain:adguard-dns.io
+domain:adguard-mail.com
 domain:adguard-vpn.com
 domain:adguard-vpn.online
 domain:adguard.app
@@ -1048,6 +1050,7 @@ domain:agenet.ac.uk
 domain:agnesb.fr
 domain:agocg.ac.uk
 domain:agoogleaday.com
+domain:agrd.eu
 domain:agrd.io
 domain:agressofinanceroyalholloway.ac.uk
 domain:agrifoodatp.ac.uk
@@ -4635,6 +4638,7 @@ domain:book.com.tw
 domain:book.zi5.me
 domain:book18.org
 domain:book4you.org
+domain:bookbrainz.org
 domain:bookclubcorner.com
 domain:bookclubgirl.com
 domain:bookdepository.com
@@ -5186,6 +5190,7 @@ domain:byzantine-ahrb-centre.ac.uk
 domain:byzantium.ac.uk
 domain:c-est-simple.com
 domain:c-ij.com
+domain:c-msedge.net
 domain:c-scaipe.ac.uk
 domain:c-span.org
 domain:c-spanvideo.org
@@ -6808,6 +6813,7 @@ domain:cove4careinkent.ac.uk
 domain:coventry.ac.uk
 domain:coventrycollege.ac.uk
 domain:coventryuniversity.ac.uk
+domain:coverartarchive.org
 domain:covid19-rx.org
 domain:covid19rx.org
 domain:covuni.ac.uk
@@ -6904,6 +6910,7 @@ domain:critica.ac.uk
 domain:critical.ac.uk
 domain:criticalfriend.ac.uk
 domain:criticaltheology.ac.uk
+domain:critiquebrainz.org
 domain:crmdynint-gcc.com
 domain:crmdynint.com
 domain:crocels.ac.uk
@@ -7929,6 +7936,8 @@ domain:dnscrypt.org
 domain:dnset.com
 domain:dnsrd.com
 domain:dnssec.net
+domain:dnsserver1.de
+domain:dnsserver2.de
 domain:dnsvisa.com
 domain:dnvod.tv
 domain:dnvodcdn.me
@@ -8824,6 +8833,7 @@ domain:efficiencyexchange.ac.uk
 domain:efksoft.com
 domain:efproject.net
 domain:efs.ac.uk
+domain:eft-store.com
 domain:efukt.com
 domain:efutures.ac.uk
 domain:egghead.io
@@ -9161,7 +9171,9 @@ domain:ero-kawa.com
 domain:ero-labs.cloud
 domain:ero-labs.com
 domain:ero-labs.fun
+domain:ero-labs.io
 domain:ero-labs.net
+domain:ero-labs.one
 domain:ero-labs.online
 domain:ero-labs.site
 domain:ero-ma-nia.com
@@ -9190,8 +9202,6 @@ domain:erogazoufactory.com
 domain:erohentai.net
 domain:erolabs.cloud
 domain:erolabs.com
-domain:erolabs.fun
-domain:erolabs.game
 domain:erolabs.net
 domain:erolabs.online
 domain:erolabsshare.xyz
@@ -9240,6 +9250,7 @@ domain:esc.ac.uk
 domain:escalate.ac.uk
 domain:escandinavia-arg.com
 domain:escape.com.au
+domain:escapefromtarkov.com
 domain:escapestudios.ac.uk
 domain:escapestudios.co.uk
 domain:escg.ac.uk
@@ -11883,6 +11894,7 @@ domain:github.com
 domain:github.community
 domain:github.dev
 domain:github.io
+domain:github1s.com
 domain:githubapp.com
 domain:githubassets.com
 domain:githubcopilot.com
@@ -12706,6 +12718,8 @@ domain:hairynature.com
 domain:hairyolder.com
 domain:hairypornsite.com
 domain:haisetu.net
+domain:haitangbook.com
+domain:haitbook.com
 domain:haitenjp.com
 domain:haiwaikan.com
 domain:hakkatv.org.tw
@@ -13846,7 +13860,9 @@ domain:hta.ac.uk
 domain:htanime.epizy.com
 domain:htkou.net
 domain:htl.li
+domain:htlvbooks.com
 domain:html5rocks.com
+domain:htnewbooks.com
 domain:htp.ac.uk
 domain:hts.ac.uk
 domain:httpfacebook.com
@@ -13855,6 +13871,7 @@ domain:https443.org
 domain:httpsfacebook.com
 domain:httpwwwfacebook.com
 domain:htvncdn.net
+domain:htwhbook.com
 domain:htx.com
 domain:htyj-bj.com
 domain:htznr.li
@@ -14080,6 +14097,7 @@ domain:ibeatsbydre.com
 domain:ibiblio.org
 domain:ibis.ac.uk
 domain:ibit.am
+domain:ibkr.com
 domain:iblist.com
 domain:iblogserv-f.net
 domain:ibm
@@ -14944,7 +14962,16 @@ domain:inteltechnologyprovider.com
 domain:intelvmwarecybersecurity.com
 domain:interactcbt.ac.uk
 domain:interactive-e.ac.uk
+domain:interactivebrokers.ca
+domain:interactivebrokers.co.in
+domain:interactivebrokers.co.jp
+domain:interactivebrokers.co.uk
 domain:interactivebrokers.com
+domain:interactivebrokers.com.au
+domain:interactivebrokers.com.hk
+domain:interactivebrokers.com.sg
+domain:interactivebrokers.eu
+domain:interactivebrokers.ie
 domain:interactiveeducation.ac.uk
 domain:interactivesex.xxx
 domain:intercamcashpassport.com.mx
@@ -15403,6 +15430,7 @@ domain:jav.si
 domain:jav.wine
 domain:jav01.cc
 domain:jav101.com
+domain:jav123.com
 domain:jav168.cc
 domain:jav19.com
 domain:jav223.com
@@ -15954,6 +15982,7 @@ domain:kechtube.com
 domain:kecnuneaton.ac.uk
 domain:kedst.ac.uk
 domain:keele.ac.uk
+domain:keemail.me
 domain:keepandshare.com
 domain:keepmovingwithmovefree.com
 domain:keepyourcad.com
@@ -16234,7 +16263,7 @@ domain:kyzyhello.com
 domain:kzaobao.com
 domain:kzeng.info
 domain:l-0005.dc-msedge.net
-domain:l-0005.l-msedge.net
+domain:l-msedge.net
 domain:la-forum.org
 domain:la-mama.ru
 domain:la-north-2.myhuaweicloud.com
@@ -16702,6 +16731,7 @@ domain:lisiku1.com
 domain:liss-dtp.ac.uk
 domain:listar.ac.uk
 domain:listen-up.ac.uk
+domain:listenbrainz.org
 domain:listennotes.com
 domain:listentoyoutube.com
 domain:listerpostgraduate.ac.uk
@@ -16793,9 +16823,11 @@ domain:llnwi.net
 domain:llwht88.xyz
 domain:llysfasi.ac.uk
 domain:lma.ac.uk
+domain:lmbooks.com
 domain:lmbru.ac.uk
 domain:lmc.ac.uk
 domain:lmd.ac.uk
+domain:lmebooks.com
 domain:lmi4he.ac.uk
 domain:lmm167.shop
 domain:lmmbtc.com
@@ -16909,6 +16941,8 @@ domain:longleypark.ac.uk
 domain:longleyparkcollege.ac.uk
 domain:longleyparksfc.ac.uk
 domain:longleyparksixthformcollege.ac.uk
+domain:longmabook.com
+domain:longmabookcn.com
 domain:longman.ch
 domain:longmusic.com
 domain:longportapp.com
@@ -16948,6 +16982,7 @@ domain:lovebeatsdr.com
 domain:lovedolltorso.com
 domain:lovegirls.cam
 domain:lovehomeporn.com
+domain:lovehtbooks.com
 domain:lovejav.net
 domain:loveloveskill.com
 domain:lovemarca.com
@@ -17046,6 +17081,7 @@ domain:lucbjtu.ac.uk
 domain:lucid.ac.uk
 domain:luckydesigner.space
 domain:luckyissue.com
+domain:luckysrv.de
 domain:ludlow-college.ac.uk
 domain:lufton-college-fe.ac.uk
 domain:luftoncollege.ac.uk
@@ -17083,6 +17119,7 @@ domain:luxebc.com
 domain:luxuretv.com
 domain:luxuretv.fun
 domain:lvhai.org
+domain:lvhtebook.com
 domain:lvv.ac.uk
 domain:lvv2.com
 domain:lwms.ac.uk
@@ -17243,6 +17280,7 @@ domain:mailtalk.ac.uk
 domain:mainichi-athletepartners.jp
 domain:mainichi.jp
 domain:mainichibooks.com
+domain:maintracker.org
 domain:maiplus.com
 domain:mairbeats.com
 domain:maizhong.org
@@ -17350,6 +17388,7 @@ domain:manyvoices.news
 domain:maoeraobjects.ac.uk
 domain:maomi-shipin.com
 domain:maomiav.one
+domain:maomiav.top
 domain:map-software.com
 domain:mapbox.com
 domain:mapguide.com
@@ -17419,6 +17458,7 @@ domain:masalladeloslimites.com
 domain:masc25.ac.uk
 domain:mash.to
 domain:mashaalradio.com
+domain:mask.me
 domain:maskedip.com
 domain:maskedsingerfox.com
 domain:massage-in-taipei.com
@@ -17819,12 +17859,14 @@ domain:meshrep.com
 domain:mesotw.com
 domain:messenger.com
 domain:messengerdevelopers.com
+domain:messybrainz.org
 domain:messytube.com
 domain:met-nude.com
 domain:meta.ai
 domain:meta.com
 domain:metabolomics.ac.uk
 domain:metabora.io
+domain:metabrainz.org
 domain:metacafe.com
 domain:metacloud.com
 domain:metacpan.org
@@ -17958,6 +18000,7 @@ domain:microsoftcommunitytraining.com
 domain:microsoftdiplomados.com
 domain:microsofteca.com
 domain:microsoftedge.com
+domain:microsoftedgeinsider.com
 domain:microsoftgamestack.com
 domain:microsofthouse.com
 domain:microsofthouse.net
@@ -18373,8 +18416,11 @@ domain:mirrorsedge.net
 domain:mirrorsedge2.com
 domain:mirrorsedge2d.com
 domain:misoc.ac.uk
+domain:missav.ai
 domain:missav.com
 domain:missav.uno
+domain:missav.vip
+domain:missav.ws
 domain:missendenabbey.ac.uk
 domain:misshotgirls.com
 domain:misskey-square.net
@@ -18773,7 +18819,9 @@ domain:msedge.net
 domain:msft.info
 domain:msft.net
 domain:msftauth.net
+domain:msftconnecttest.com
 domain:msfteducation.ca
+domain:msftncsi.com
 domain:msftnet.org
 domain:msgamesresearch.com
 domain:msguancha.com
@@ -18861,6 +18909,7 @@ domain:musicade.net
 domain:musical.ly
 domain:musicandphilosophy.ac.uk
 domain:musicbay.net
+domain:musicbrainz.org
 domain:musiche.ac.uk
 domain:musickit.net
 domain:musiconline.ac.uk
@@ -18935,6 +18984,7 @@ domain:mybestbuyclaims.com
 domain:mybet.com
 domain:mybmw.ca
 domain:mybmw.com
+domain:mybookinlm.com
 domain:myboylove.com
 domain:mybridgestoneeducation.com
 domain:mybukkakeporn.com
@@ -19016,6 +19066,9 @@ domain:myhentaicomics.com
 domain:myhentaigallery.com
 domain:myhomemadesex.com
 domain:myhpsupport.com
+domain:myhtebook.com
+domain:myhtebooks.com
+domain:myhtlmebook.com
 domain:myhulu.com
 domain:myicloud.net
 domain:myip.la
@@ -19462,6 +19515,7 @@ domain:netbirds.com
 domain:netcolony.com
 domain:netcup-news.de
 domain:netcup-sonderangebote.de
+domain:netcup-wiki.de
 domain:netcup.com
 domain:netcup.de
 domain:netcup.eu
@@ -19569,6 +19623,7 @@ domain:newhamcfe.ac.uk
 domain:newhampshirebmw.com
 domain:newhentai.org
 domain:newhighlandvision.com
+domain:newhtbook.com
 domain:newi.ac.uk
 domain:newipnow.com
 domain:newisiknowledge.com
@@ -21685,6 +21740,7 @@ domain:pixiv.help
 domain:pixiv.me
 domain:pixiv.net
 domain:pixiv.org
+domain:pixivision.net
 domain:pixivsketch.net
 domain:pixlr-o-matic.com
 domain:pixlromatic.com
@@ -22432,7 +22488,10 @@ domain:protondb.com
 domain:protonmail.ch
 domain:protonmail.com
 domain:protonstatus.com
+domain:protontech.ch
+domain:protonvpn.ch
 domain:protonvpn.com
+domain:protonweb.com
 domain:proudman-oceanographic-lab.ac.uk
 domain:provide.ac.uk
 domain:provideocoalition.com
@@ -23655,7 +23714,14 @@ domain:rutc.ac.uk
 domain:ruten.com.tw
 domain:rutherford.ac.uk
 domain:rutlandcollege.ac.uk
+domain:rutracker.cc
+domain:rutracker.cr
+domain:rutracker.me
 domain:rutracker.net
+domain:rutracker.nl
+domain:rutracker.org
+domain:rutrecker.net
+domain:rutrk.org
 domain:rutube.ru
 domain:ruvideos.net
 domain:ruyiseek.com
@@ -23786,6 +23852,7 @@ domain:sandwell.ac.uk
 domain:sandwellcollege.ac.uk
 domain:sanger.ac.uk
 domain:sanjesh.org
+domain:sankakuapi.com
 domain:sankakucomplex.com
 domain:sankei-ad-info.com
 domain:sankei-ad.net
@@ -24171,6 +24238,7 @@ domain:serl.ac.uk
 domain:serlucap.lol
 domain:serlutv258.xyz
 domain:servehttp.com
+domain:servercontrolpanel.de
 domain:serverfault.com
 domain:serverlesslibrary.net
 domain:serveuser.com
@@ -25180,6 +25248,7 @@ domain:soupofmedia.com
 domain:source.ac.uk
 domain:sourceforge.com
 domain:sourceforge.net
+domain:sourcegraph.com
 domain:sourcehut.org
 domain:sourcewadio.com
 domain:sourcingforebay.com.cn
@@ -25311,6 +25380,7 @@ domain:spitfire.ac.uk
 domain:spizoo.com
 domain:splatoon2tournament.com
 domain:splint-cetl.ac.uk
+domain:spo-msedge.net
 domain:spokenword.ac.uk
 domain:sponichi.co.jp
 domain:spore.com
@@ -25442,8 +25512,13 @@ domain:stackoverflow.blog
 domain:stackoverflow.co
 domain:stackoverflow.com
 domain:stackoverflow.email
+domain:stackoverflow.help
+domain:stackoverflow.net
 domain:stackoverflowbusiness.com
 domain:stackoverflowcareers.com
+domain:stackoverflowjobs.com
+domain:stackoverflowsolutions.com
+domain:stackoverflowteams.com
 domain:stackpath.com
 domain:stackpath.dev
 domain:stacksnippets.net
@@ -25899,6 +25974,7 @@ domain:superokayama.com
 domain:superpages.com
 domain:superpapermario.com
 domain:supersexeamateur.com
+domain:supersrv.de
 domain:superstation.com.tw
 domain:superstem.ac.uk
 domain:supertop.co
@@ -26100,6 +26176,7 @@ domain:szetowah.org.hk
 domain:szexvideo.top
 domain:szwinnertechnology.com
 domain:t-g.com
+domain:t-msedge.net
 domain:t-mus.ac.uk
 domain:t-splines.com
 domain:t.co
@@ -26207,6 +26284,7 @@ domain:target
 domain:target.com
 domain:targetedgrad.ac.uk
 domain:targetimg1.com
+domain:tarkov.com
 domain:tarn.ac.uk
 domain:tarr.uspto.gov
 domain:tasc.ac.uk
@@ -27358,8 +27436,11 @@ domain:turn.livekit.cloud
 domain:turntable.fm
 domain:tushy.com
 domain:tushycash.com
+domain:tuta.com
 domain:tuta.io
+domain:tutamail.com
 domain:tutanota.com
+domain:tutanota.de
 domain:tuvpn.com
 domain:tuzaijidi.com
 domain:tv.com
@@ -27944,6 +28025,7 @@ domain:urbanobservatory.ac.uk
 domain:urbansurvival.com
 domain:urchin.com
 domain:urduvoa.com
+domain:urhtbooks.com
 domain:urlborg.com
 domain:urlgalleries.net
 domain:urlparser.com
@@ -29959,6 +30041,7 @@ domain:xda-cdn.com
 domain:xda-developers.com
 domain:xdaddy.in
 domain:xdaforums.com
+domain:xdaimages.com
 domain:xdh999.one
 domain:xdir.vip
 domain:xdporner.com
@@ -30044,6 +30127,7 @@ domain:xiongpian.com
 domain:xiuren.org
 domain:xixicui.icu
 domain:xizang-zhiye.org
+domain:xj87ti.com
 domain:xjavporn.com
 domain:xjp.cc
 domain:xjtravelguide.com
@@ -30820,6 +30904,7 @@ domain:yourtrap.com
 domain:yourtv.com.au
 domain:yourupskirt.com
 domain:yourvoyeurvideos.com
+domain:yourvserver.net
 domain:yourwifemymeat.com
 domain:yourxxxvideos.pro
 domain:yousendit.com
