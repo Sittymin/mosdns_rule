@@ -19602,6 +19602,7 @@ domain:netcolony.com
 domain:netcup-news.de
 domain:netcup-sonderangebote.de
 domain:netcup-wiki.de
+domain:netcup.cafe
 domain:netcup.com
 domain:netcup.de
 domain:netcup.eu
@@ -27466,7 +27467,9 @@ domain:tubev.sex
 domain:tubevintageporn.com
 domain:tubewolf.com
 domain:tubexclips.com
+domain:tubi.io
 domain:tubinge.com
+domain:tubitv.com
 domain:tubsexer.com
 domain:tubxporn.com
 domain:tubxporn.xxx
