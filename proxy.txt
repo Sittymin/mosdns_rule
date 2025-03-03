@@ -741,6 +741,7 @@ domain:aceros-de-hispania.com
 domain:aces.ac.uk
 domain:acets.ac.uk
 domain:acevpn.com
+domain:acg.rip
 domain:acg18.me
 domain:acgbox.org
 domain:acgcf.com
@@ -1729,6 +1730,7 @@ domain:anistreaming.xyz
 domain:ankarazirvesi2018.com
 domain:anm.co.uk
 domain:annamilk.com
+domain:annas-archive.se
 domain:annatam.com
 domain:anniesland-fe.ac.uk
 domain:anniesland.ac.uk
@@ -3031,6 +3033,7 @@ domain:bangkokpost.com
 domain:bangkokstreetwhores.com
 domain:bangor-university-london.ac.uk
 domain:bangor.ac.uk
+domain:bangumi.moe
 domain:bangumi.tv
 domain:bangyoulater.com
 domain:bangyourwife.com
@@ -4806,6 +4809,7 @@ domain:bravoporn.com
 domain:bravoteens.com
 domain:bravotube.net
 domain:bravotube.tv
+domain:brawlstarsgame.com
 domain:brazilpartneruniversity.com
 domain:brazzer.com
 domain:brazzers-porno.online
@@ -6975,6 +6979,7 @@ domain:crunchyroll.com
 domain:crustwebsites.net
 domain:crypto.com
 domain:cryptocompare.com
+domain:cryptomus.com
 domain:crypton.co.jp
 domain:crysis.jp
 domain:crystalgunnsworld.com
@@ -8037,6 +8042,7 @@ domain:donttrack.us
 domain:doodhwali.com
 domain:doom.com
 domain:doom9.org
+domain:doosho.com
 domain:doourbest.org
 domain:dopaminegirl.com
 domain:dorjeshugden.com
@@ -10681,6 +10687,7 @@ domain:free-ssh.com
 domain:free-strip-games.com
 domain:free-wap-tube.com
 domain:free-xxx-porn.org
+domain:free.bg
 domain:free.fr
 domain:free00.com
 domain:free18.net
@@ -13519,6 +13526,7 @@ domain:hola.com
 domain:hola.org
 domain:holaporno.xxx
 domain:holdemstripem.com
+domain:hole.thu.monster
 domain:holloporn.com
 domain:hollyrandall.com
 domain:holmelacy.ac.uk
@@ -13696,6 +13704,7 @@ domain:howtoforge.com
 domain:howtogetmo.co.uk
 domain:howtohackfacebook-account.com
 domain:hoxx.com
+domain:hoy.tv
 domain:hoyo.link
 domain:hoyolab.com
 domain:hoyoverse.com
@@ -16274,6 +16283,7 @@ domain:kouwobb.com
 domain:kphimsex.net
 domain:kpht85.com
 domain:kpinsurances.com
+domain:kpkuang.org
 domain:kpptoto.info
 domain:kqes.net
 domain:kraken.com
@@ -17424,6 +17434,7 @@ domain:mandatewire.com
 domain:mandiant.com
 domain:manga-mill.com
 domain:manga18.art
+domain:mangabz.com
 domain:mangafox.com
 domain:mangafox.me
 domain:mangahasu.se
@@ -19780,6 +19791,7 @@ domain:newsxtend.com.au
 domain:newtaiwan.com.tw
 domain:newtalk.tw
 domain:newtec.ac.uk
+domain:newthuhole.com
 domain:newtofea.com
 domain:newton.ac.uk
 domain:newton.com
@@ -21183,6 +21195,7 @@ domain:paidpornguide.com
 domain:paidpornsites.com
 domain:paily.net
 domain:paily.org
+domain:paimon.moe
 domain:painfulpussytortures.com
 domain:painnovel.com
 domain:paipal.com
@@ -21581,6 +21594,7 @@ domain:penchinese.com
 domain:penchinese.net
 domain:pencoed.ac.uk
 domain:pendcoll.ac.uk
+domain:pendrivelinux.com
 domain:pengwerncollege.ac.uk
 domain:peninsula.ac.uk
 domain:peninsular.ac.uk
@@ -21667,6 +21681,7 @@ domain:photofocus.com
 domain:photolia.net
 domain:photonics.ac.uk
 domain:photonicssociety.org
+domain:photonmedia.net
 domain:photos18.com
 domain:photoshop.com
 domain:php.net
@@ -21845,6 +21860,7 @@ domain:pki-post.ch
 domain:pki-posta.ch
 domain:pki-poste.ch
 domain:pkqjiasu.com
+domain:pkuanvil.com
 domain:placemix.com
 domain:placemyad.com.au
 domain:placesdocs.com
@@ -21948,6 +21964,7 @@ domain:poi.moe
 domain:point.ac.uk
 domain:pointblank.ac.uk
 domain:pointblankmusicschool.ac.uk
+domain:points-media.com
 domain:poisontube.com
 domain:pojapp.cfd
 domain:pojbayj1030.top
@@ -26650,6 +26667,7 @@ domain:thebritishmuseum.ac.uk
 domain:thecamdude.com
 domain:thecandidbay.com
 domain:thecandidforum-voyeur.ru
+domain:thechasernews.co.uk
 domain:thechesterfieldcollegegroup.ac.uk
 domain:thechinabeat.org
 domain:thechinacollection.org
@@ -26869,6 +26887,7 @@ domain:thri.xxx
 domain:thrixxx.com
 domain:throughnightsfire.com
 domain:thtmod1.com
+domain:thuhole.com
 domain:thumbnailseries.com
 domain:thumbzilla.com
 domain:thunderbird.net
@@ -29630,6 +29649,7 @@ domain:wikawika.xyz
 domain:wiki.cnitter.com
 domain:wiki.gamerp.jp
 domain:wiki.keso.cn
+domain:wiki.metacubex.one
 domain:wiki.oauth.net
 domain:wiki.phonegap.com
 domain:wikia.com
@@ -29675,6 +29695,7 @@ domain:wiley.com
 domain:williamhill.com
 domain:willw.net
 domain:willyporn.com
+domain:wilsoncenter.org
 domain:wiltscoll.ac.uk
 domain:wiltshire.ac.uk
 domain:wiltshirecollege.ac.uk
