@@ -50,6 +50,22 @@ jobs:
 
           # 删除临时文件
           rm proxy-list.txt
+      # 下载并处理 direct 文件
+      - name: Download and process direct domains file
+        run: |
+          # 定义文件路径
+          PROXY_LIST_URL="https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
+          PROXY_OUTPUT_FILE="direct.txt"
+
+          # 下载文件
+          curl -s "$PROXY_LIST_URL" -o direct-list.txt
+
+          # 清理文件内容并格式化
+          cat direct-list.txt | \
+            grep -v '^#' | grep -v '^\s*$' | sed 's/^/domain:/' | sort | uniq > "$PROXY_OUTPUT_FILE"
+
+          # 删除临时文件
+          rm direct-list.txt
 
       # 提交更新后的文件
       - name: Commit updated domains files
@@ -58,7 +74,7 @@ jobs:
           git config --global user.email "actions@github.com"
 
           # 添加 ads.txt 和 proxy.txt
-          git add ads.txt proxy.txt
+          git add ads.txt proxy.txt direct.txt
 
           # 如果文件有变化，则提交
           if git diff --staged --quiet; then
