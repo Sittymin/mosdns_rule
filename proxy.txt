@@ -207,6 +207,7 @@ domain:2019baidu.xyz
 domain:2021hkcharter.com
 domain:2023aga.oen.tw
 domain:2047.name
+domain:2049bbs.xyz
 domain:20thcenturystudios.com.au
 domain:20thcenturystudios.com.br
 domain:20thcenturystudios.jp
@@ -2475,7 +2476,6 @@ domain:asvin.ac.uk
 domain:atandt.com
 domain:atc.org.au
 domain:atchinese.com
-domain:atdmt.com
 domain:atdmt2.com
 domain:ateam-oracle.com
 domain:atgfw.org
@@ -4049,6 +4049,7 @@ domain:blogebay.com
 domain:blogger.com
 domain:bloggrowup.com
 domain:blogimg.jp
+domain:blogjav.net
 domain:bloglines.com
 domain:bloglovin.com
 domain:blogoverflow.com
@@ -5031,6 +5032,8 @@ domain:btaia.com
 domain:btas.ac.uk
 domain:btbit.net
 domain:btbtav.com
+domain:btbtt.co
+domain:btbtt.me
 domain:btc.ac.uk
 domain:btc.com
 domain:btc98.com
@@ -5364,6 +5367,7 @@ domain:camgirlfinder.net
 domain:camgirlstemple.com
 domain:camgoddess.tv
 domain:camonster.com
+domain:campaign-archive.com
 domain:campaignforuyghurs.org
 domain:camphill.ac.uk
 domain:campushp.com
@@ -6115,6 +6119,7 @@ domain:chinatimes.com.tw
 domain:chinatopsex.com
 domain:chinatown.com.au
 domain:chinatweeps.com
+domain:chinauncensored.tv
 domain:chinaunicom.com.hk
 domain:chinaunicomglobal.com
 domain:chinaway.org
@@ -6328,6 +6333,7 @@ domain:civilmedia.tw
 domain:civilsoftware.net
 domain:civilwarpetitions.ac.uk
 domain:civitai.com
+domain:cixiaoya.club
 domain:cixp.net
 domain:ciyuanjie.cc
 domain:ck101.com
@@ -6496,7 +6502,6 @@ domain:cmule.com
 domain:cmule.org
 domain:cmx.im
 domain:cn-proxy.com
-domain:cn.etherscan.com
 domain:cn.fmnnow.com
 domain:cn.giganews.com
 domain:cn.ibtimes.com
@@ -7395,6 +7400,7 @@ domain:dct.ac.uk
 domain:dctbeatsbydre.com
 domain:ddc.com.tw
 domain:ddd-smart.net
+domain:ddex.io
 domain:ddff66.com
 domain:ddff77.com
 domain:ddg.co
@@ -7438,6 +7444,7 @@ domain:dec.ac.uk
 domain:decentr.net
 domain:dechamora.com
 domain:deck.ly
+domain:deck.new
 domain:decodet.co
 domain:decorativemodels.com
 domain:decrypt.day
@@ -7997,6 +8004,7 @@ domain:dnvodcdn.me
 domain:do.co
 domain:dobbyporn.com
 domain:dobendan.de
+domain:doc.new
 domain:doceapower.com
 domain:docker.com
 domain:docker.io
@@ -9378,6 +9386,7 @@ domain:etherdelta.com
 domain:ethereum.foundation
 domain:ethereum.org
 domain:ethermine.org
+domain:etherscan.com
 domain:etherscan.io
 domain:ethicsguidebook.ac.uk
 domain:ethnicity.ac.uk
@@ -9438,6 +9447,7 @@ domain:evanottyvideos.com
 domain:evemodels.com
 domain:eventsinfocus.org
 domain:everia.club
+domain:everipedia.org
 domain:evernote.com
 domain:every1dns.net
 domain:everydayporn.co
@@ -10460,9 +10470,11 @@ domain:forestsixth.ac.uk
 domain:forestyouth.ac.uk
 domain:forgecdn.net
 domain:forhertube.com
+domain:form.new
 domain:formission.ac.uk
 domain:formit360.com
 domain:formitfactory.com
+domain:forms.new
 domain:forpojie.pics
 domain:forster.ac.uk
 domain:fortawesome.com
@@ -15144,6 +15156,7 @@ domain:inventorfusion.com
 domain:inventorseries.com
 domain:inventorship.com.au
 domain:investorschronicle.co.uk
+domain:invidio.us
 domain:invity.io
 domain:inxian.com
 domain:inxporn.com
@@ -15984,6 +15997,7 @@ domain:justmysocks.net
 domain:justmysocks1.net
 domain:justmysocks2.net
 domain:justmysocks4.net
+domain:justmysockscn.com
 domain:justnudepic.com
 domain:justpaste.it
 domain:justpicsplease.com
@@ -17981,6 +17995,7 @@ domain:mercari.jp
 domain:mercatox.com
 domain:mercdn.net
 domain:mercyprophet.org
+domain:mergersandinquisitions.com
 domain:mergersandinquisitions.org
 domain:meridian-trust.org
 domain:meridian.net
@@ -18168,6 +18183,7 @@ domain:microsoftonline-p.com
 domain:microsoftonline.com
 domain:microsoftpartnercommunity.com
 domain:microsoftpartnersolutions.com
+domain:microsoftpersonalcontent.com
 domain:microsoftreactor.info
 domain:microsoftreactor.net
 domain:microsoftreactor.org
@@ -19976,6 +19992,7 @@ domain:night.livedoor.biz
 domain:nightclub.eu
 domain:nightline.ac.uk
 domain:nights.fun
+domain:nightswatch.top
 domain:nihcc.ac.uk
 domain:nihr.ac.uk
 domain:nii.ac.jp
@@ -20910,6 +20927,7 @@ domain:onesiterip.com
 domain:onestore.ms
 domain:oneteamconference.com
 domain:onetrust.com
+domain:onevps.com
 domain:oneworldmanystories.com
 domain:onindiansex.com
 domain:oninstagram.com
@@ -21289,6 +21307,7 @@ domain:panasonic.jp
 domain:pancolle-movie.jp
 domain:panda.ac.uk
 domain:panda30.shop
+domain:pandafan.pub
 domain:pandamovies.pw
 domain:pandanet-igs.com
 domain:pandapow.co
@@ -22536,6 +22555,7 @@ domain:premproxy.com
 domain:prepsure.com
 domain:prescribe.ac.uk
 domain:prescribingsafetyassessment.ac.uk
+domain:presentation.new
 domain:presentationzen.com
 domain:presidencylondoncollege.ac.uk
 domain:presidentlee.tw
@@ -22682,6 +22702,7 @@ domain:proxypy.net
 domain:proxyrarbg.org
 domain:proxyroad.com
 domain:proxytunnel.net
+domain:proxz.com
 domain:proyectoclubes.com
 domain:prozz.net
 domain:prpops.com
@@ -22841,6 +22862,7 @@ domain:qiandao.today
 domain:qianglie.com
 domain:qiangwaikan.com
 domain:qiangyou.org
+domain:qianmo.tw
 domain:qiao-cn.com
 domain:qidian.ca
 domain:qienkuen.org
@@ -24309,6 +24331,7 @@ domain:sectigo.com
 domain:secure-paypal.info
 domain:secure.logmein.com
 domain:secure.raxcdn.com
+domain:secure.shadowsocks.nu
 domain:secureharvests.ac.uk
 domain:securepaypal.info
 domain:secureservercdn.net
@@ -24697,6 +24720,7 @@ domain:shc.ac.uk
 domain:shdd.ink
 domain:shdf.ac.uk
 domain:sheef.ac.uk
+domain:sheet.new
 domain:sheets.new
 domain:shef.ac.uk
 domain:shefc.ac.uk
@@ -24896,6 +24920,7 @@ domain:sikiswap.com
 domain:silkbook.com
 domain:silkengirl.com
 domain:silverchair-cdn.com
+domain:silvergatebank.com
 domain:silversluts.com
 domain:simbios.ac.uk
 domain:simbolostwitter.com
@@ -24908,6 +24933,7 @@ domain:similar-porn.fun
 domain:simility.com
 domain:simonsgirls.com
 domain:simpcity.su
+domain:simplecd.me
 domain:simplecd.org
 domain:simpleproductivityblog.com
 domain:simpleswap.io
@@ -24977,6 +25003,7 @@ domain:sissy.eu.org
 domain:sissy.game
 domain:sissyporncrossdresser.com
 domain:site.com
+domain:site.new
 domain:site2unblock.com
 domain:site90.net
 domain:sitebro.tw
@@ -24987,6 +25014,7 @@ domain:sitepoint.com
 domain:siterips.org
 domain:siteripz.com
 domain:siteripz.net
+domain:sites.new
 domain:siti.ac.uk
 domain:situero.com
 domain:siva.ac.uk
@@ -25568,6 +25596,7 @@ domain:spotifyjobs.com
 domain:spr.ac.uk
 domain:spraynwash.com
 domain:spreadprivacy.com
+domain:spreadsheet.new
 domain:spreadshirt.es
 domain:spreaker.com
 domain:sprg.ac.uk
@@ -25647,6 +25676,7 @@ domain:ssr.tools
 domain:ssrpass.pw
 domain:ssrshare.com
 domain:ssrshare.us
+domain:ssrtool.com
 domain:sss.camp
 domain:sss.xxx
 domain:sssfc.ac.uk
@@ -26321,6 +26351,7 @@ domain:symantec.com
 domain:symcb.com
 domain:symcd.com
 domain:symonds.ac.uk
+domain:synapse.org
 domain:synaptic.net
 domain:synbio-cdt.ac.uk
 domain:syncback.com
@@ -27294,6 +27325,7 @@ domain:totalmateria.com
 domain:totalvpn.com
 domain:totoleak.com
 domain:totton.ac.uk
+domain:tou.tv
 domain:toucan-network.ac.uk
 domain:touchid.tv
 domain:touchid.wang
@@ -27597,6 +27629,7 @@ domain:tumutanzi.com
 domain:tumview.com
 domain:tuncommercialbank.com
 domain:tunein.com
+domain:tunein.streamguys1.com
 domain:tunnelbear.com
 domain:tunnelblick.net
 domain:tunnelr.com
@@ -28567,6 +28600,7 @@ domain:vetschoolscouncil.ac.uk
 domain:vetset2go.ac.uk
 domain:vetvaccnet.ac.uk
 domain:vevo.com
+domain:vewas.net
 domain:vfabric.net
 domain:vfsco.at
 domain:vfsco.be
@@ -28682,6 +28716,7 @@ domain:viewgals.com
 domain:viewpointsfromfacebook.com
 domain:vijayatemple.org
 domain:vikiporn.com
+domain:vilanet.me
 domain:vilavpn.com
 domain:vilavpn.xyz
 domain:vilavpn1.xyz
@@ -29515,6 +29550,7 @@ domain:webrtc.org
 domain:webrush.net
 domain:webs-tv.net
 domain:website.informer.com
+domain:website.new
 domain:websitepulse.com
 domain:webster.ac.uk
 domain:webtoons.com
