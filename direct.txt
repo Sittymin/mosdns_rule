@@ -64915,6 +64915,8 @@ domain:qw5599.com
 domain:qwbk.cc
 domain:qweather.com
 domain:qweather.net
+domain:qwen.ai
+domain:qwenlm.ai
 domain:qwerhost.com
 domain:qwfync.com
 domain:qwgg.com

@@ -453,6 +453,7 @@ domain:69hongdq7.buzz
 domain:69loli.com
 domain:69luolie.com
 domain:69re.net
+domain:69shuba.cx
 domain:69story.com
 domain:69tubesex.com
 domain:69vj.com
@@ -4703,6 +4704,7 @@ domain:booktopia.com.au
 domain:bookwalker.com.tw
 domain:booloo.com
 domain:boomba.club
+domain:boombeach.com
 domain:boomerang.com
 domain:boomssr.com
 domain:booru.org
@@ -4821,6 +4823,7 @@ domain:bravoporn.com
 domain:bravoteens.com
 domain:bravotube.net
 domain:bravotube.tv
+domain:brawlstars.com
 domain:brawlstarsgame.com
 domain:brazilpartneruniversity.com
 domain:brazzer.com
@@ -6352,6 +6355,11 @@ domain:clarendon.ac.uk
 domain:clarin.ac.uk
 domain:clarionproject.org
 domain:clarivate.com
+domain:clash.com
+domain:clashmini.com
+domain:clashofclans.com
+domain:clashroyale.com
+domain:clashroyaleapp.com
 domain:clasporno.org
 domain:classicalguitarblog.net
 domain:classicnike.com
@@ -11636,6 +11644,7 @@ domain:gamer.com.tw
 domain:gameroom.com
 domain:gamerotic.com
 domain:gamesathletes.com
+domain:gamesfirsthelsinki.com
 domain:gamesfuckgirls.com
 domain:gamesofdesire.com
 domain:gamesstack.com
@@ -12959,6 +12968,8 @@ domain:hawaiibmw.com
 domain:hayabusa.dev
 domain:hayabusa.io
 domain:hayabusa.media
+domain:hayday.com
+domain:haydaygame.com
 domain:hayle.ac.uk
 domain:haywardsheath.ac.uk
 domain:hbabit.com
@@ -18660,6 +18671,7 @@ domain:mmwxl27.top
 domain:mnc.ac.uk
 domain:mndregister.ac.uk
 domain:mnewstv.com
+domain:mo.co
 domain:mo.nightlife141.com
 domain:mobatek.net
 domain:mobile.de
@@ -22090,6 +22102,7 @@ domain:politiscales.net
 domain:poloniex.com
 domain:poly-of-wales.ac.uk
 domain:polygon.com
+domain:polymarket.com
 domain:polymer-project.org
 domain:polymerhk.com
 domain:polymerproject.org
@@ -24353,6 +24366,7 @@ domain:seemilfporn.com
 domain:seemygf.com
 domain:seemyporn.com
 domain:seesmic.com
+domain:seeurlpcl.com
 domain:seevic-college.ac.uk
 domain:seevic.ac.uk
 domain:seevpn.com
@@ -25619,6 +25633,7 @@ domain:sqhwesternconsortium.ac.uk
 domain:sqlite.org
 domain:sqlserveronlinux.com
 domain:squ1.com
+domain:squadbusters.com
 domain:squarecapital.com
 domain:squarecdn.com
 domain:squarecloudservices.com
@@ -26154,6 +26169,10 @@ domain:superadultgames.com
 domain:supercell.com
 domain:supercell.helpshift.com
 domain:supercell.net
+domain:supercellcreators.com
+domain:supercellgames.com
+domain:supercellid.com
+domain:supercellstore.com
 domain:supercoach.com.au
 domain:supercomputingwales.ac.uk
 domain:superdarn.ac.uk
@@ -29814,7 +29833,6 @@ domain:wikiunblocked.org
 domain:wikiversity.org
 domain:wikivoyage.org
 domain:wikiwand.com
-domain:wikiwiki.jp
 domain:wiktionary.org
 domain:wilberforce.ac.uk
 domain:wildammo.com
