@@ -27824,6 +27824,7 @@ domain:twitturly.com
 domain:twitvid.com
 domain:twitzap.com
 domain:twiyia.com
+domain:twkan.com
 domain:twlegs.com
 domain:twline5.com
 domain:twnextdigital.com
