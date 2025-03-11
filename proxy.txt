@@ -7925,9 +7925,6 @@ domain:disquscdn.com
 domain:disqusservice.com
 domain:distillate.ac.uk
 domain:distinct.ac.uk
-domain:distribution.qatp1.net
-domain:distribution.qcpp1.net
-domain:distribution.qpdp1.net
 domain:dit-inc.us
 domain:divas.com.uy
 domain:diversityuk.ac.uk
@@ -8136,8 +8133,6 @@ domain:dowjoneson.com
 domain:download.aircrack-ng.org
 domain:download.com
 domain:download.qatp1.net
-domain:download.qcpp1.net
-domain:download.qpdp1.net
 domain:downloadpass.com
 domain:downloadsforipod.com
 domain:dphk.org
@@ -10452,9 +10447,7 @@ domain:fonolia.com
 domain:fontawesome.com
 domain:fontbook.com
 domain:fontexplorerx.com
-domain:fontfiles.googleadapis.com
 domain:fonts.com
-domain:fonts.googleadapis.com
 domain:fonts.net
 domain:fontshop.com
 domain:fontsinuse.com
@@ -12531,7 +12524,6 @@ domain:googleoptimize.com
 domain:googlepagecreator.com
 domain:googlephotos.com
 domain:googleplay.com
-domain:googleplex.com
 domain:googleplus.com
 domain:googlescholar.com
 domain:googlesile.com
@@ -18778,8 +18770,6 @@ domain:mongodb.com
 domain:mongodb.org
 domain:monica.im
 domain:monitorchina.org
-domain:monitoring.qatp1.net
-domain:monitoring.qcpp1.net
 domain:monitoring.qpdp1.net
 domain:monitrix.net
 domain:monkwear.ac.uk
@@ -22848,8 +22838,6 @@ domain:qaa.ac.uk
 domain:qac.ac.uk
 domain:qacollege.ac.uk
 domain:qagpublic.qatp1.net
-domain:qagpublic.qcpp1.net
-domain:qagpublic.qpdp1.net
 domain:qanote.com
 domain:qatarescortsvip.com
 domain:qattdh.cc
@@ -22864,9 +22852,7 @@ domain:qcmod.xyz
 domain:qctconnect.com
 domain:qdiehzz7.me
 domain:qeliz.ac.uk
-domain:qgadmin.qatp1.net
 domain:qgadmin.qcpp1.net
-domain:qgadmin.qpdp1.net
 domain:qgirl.com.tw
 domain:qhigh.com
 domain:qi-gong.me
@@ -22944,10 +22930,6 @@ domain:qualcommventures.com
 domain:qualidata.ac.uk
 domain:qualphone.com
 domain:qualysapi.qatp1.net
-domain:qualysapi.qcpp1.net
-domain:qualysapi.qpdp1.net
-domain:qualysguard.qatp1.net
-domain:qualysguard.qcpp1.net
 domain:qualysguard.qpdp1.net
 domain:quanben-xiaoshuo.com
 domain:quanben.io
@@ -24137,9 +24119,7 @@ domain:scaleflex.com
 domain:scaleform.com
 domain:scandalplanet.com
 domain:scanlover.com
-domain:scanservice1.qatp1.net
 domain:scanservice1.qcpp1.net
-domain:scanservice1.qpdp1.net
 domain:scapa.ac.uk
 domain:scarb-6-form.ac.uk
 domain:scarboroughtec.ac.uk
@@ -30144,7 +30124,6 @@ domain:www.dwheeler.com
 domain:www.eastturkistan.net
 domain:www.gmiddle.com
 domain:www.gmiddle.net
-domain:www.googleadapis.com
 domain:www.idlcoyote.com
 domain:www.klip.me
 domain:www.lamenhu.com
