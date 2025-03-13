@@ -11212,6 +11212,7 @@ domain:full:paper-attachments.s3.amazonaws.com
 domain:full:pchomeonline.com.tw
 domain:full:pki.google.com
 domain:full:poshtestgallery.cloudapp.net
+domain:full:pplx-res.cloudinary.com
 domain:full:practivate.adobe
 domain:full:practivate.adobe.com
 domain:full:practivate.adobe.ipp
@@ -22534,6 +22535,7 @@ domain:ppb-mod.buzz
 domain:ppe.lawyer
 domain:pplah.com
 domain:pplusstatic.com
+domain:pplx.ai
 domain:ppp91.cc
 domain:pppds.com
 domain:ppre.ac.uk
