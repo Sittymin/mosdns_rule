@@ -10008,7 +10008,6 @@ domain:fashiontechnologyacademy.ac.uk
 domain:fast.com
 domain:fastech.ac.uk
 domain:fastestvpn.com
-domain:fastgpt.run
 domain:fastindianporn.com
 domain:fastlane.ci
 domain:fastlane.tools
