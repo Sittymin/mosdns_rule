@@ -22158,7 +22158,6 @@ domain:cqrc.net
 domain:cqrcb.com
 domain:cqrcdsc.com
 domain:cqrfym.com
-domain:cqrjx.com
 domain:cqrm.com
 domain:cqrmb.com
 domain:cqsckj02.com
@@ -47953,7 +47952,6 @@ domain:jjj.ee
 domain:jjjaaa.com
 domain:jjjllk.com
 domain:jjjpv.com
-domain:jjjx9.com
 domain:jjkeq.com
 domain:jjkjnet.com
 domain:jjkk.org
@@ -48858,6 +48856,7 @@ domain:jswb.com
 domain:jswebcall.com
 domain:jsweixiu.com
 domain:jswel.com
+domain:jswenjin.com
 domain:jswjkj.net
 domain:jswmw.com
 domain:jswonderful.com
@@ -51857,7 +51856,6 @@ domain:labzj.com
 domain:lacaoshi.com
 domain:lacesar.com
 domain:lacocrea.com
-domain:lacyw.com
 domain:ladiyoga.com
 domain:ladjzs.com
 domain:lady177.com
@@ -79186,7 +79184,6 @@ domain:tzsports.com
 domain:tzsti.com
 domain:tzsucai.com
 domain:tzswatch.com
-domain:tzswll.com
 domain:tztrzjt.com
 domain:tztusi.com
 domain:tzujian.com
@@ -80595,6 +80592,7 @@ domain:vietnambesthotel.com
 domain:viewstock.com
 domain:viewtool.com
 domain:viewtrans.com
+domain:vifaka.com
 domain:vigtm-meeting-tencent.com
 domain:viigee.com
 domain:viisan.com
