@@ -896,6 +896,7 @@ domain:adobesign.com
 domain:adobesigncdn.com
 domain:adobespark.com
 domain:adobess.com
+domain:adobestats.io
 domain:adobestock.com
 domain:adobetag.com
 domain:adobetarget.com
@@ -3654,6 +3655,7 @@ domain:bestpremiumpornsite.com
 domain:bestrecipes.com.au
 domain:bestsexcam.com
 domain:bestshoesale2014.net
+domain:bestsrv.de
 domain:besttitstube.com
 domain:bestvpn.com
 domain:bestvpnanalysis.com
@@ -12276,6 +12278,7 @@ domain:goodreaders.com
 domain:goodreads.com
 domain:goodsdunk.net
 domain:goodsexporn.org
+domain:goodsrv.de
 domain:goodtv.com.tw
 domain:goodtv.tv
 domain:goofind.com
@@ -12901,6 +12904,7 @@ domain:happymeal.co.nz
 domain:happymeal.com
 domain:happymeal.com.au
 domain:happymealdigital.com
+domain:happysrv.de
 domain:haproxy.org
 domain:hardcore-sex-filme.com
 domain:hardcoregayblog.com
@@ -13377,6 +13381,7 @@ domain:heyuedi.com
 domain:heywire.com
 domain:heyzo.com
 domain:hf-iphone.com
+domain:hf.co
 domain:hfaes.ac.uk
 domain:hfals.ac.uk
 domain:hfma.ac.uk
@@ -13738,6 +13743,7 @@ domain:hotsexvideo.mobi
 domain:hotsexydolls.com
 domain:hotshame.com
 domain:hotspotshield.com
+domain:hotsrv.de
 domain:hotstar-cdn.net
 domain:hotstar-labs.com
 domain:hotstar.com
@@ -15427,6 +15433,8 @@ domain:italiatibet.org
 domain:itasoftware.com
 domain:itcanwait.com
 domain:itcfonts.com
+domain:itch.io
+domain:itch.zone
 domain:itchen.ac.uk
 domain:iteach.ac.uk
 domain:itec.ac.uk
@@ -17960,6 +17968,7 @@ domain:megaporno.com.br
 domain:megapornpics.com
 domain:megaproxy.com
 domain:megarotic.com
+domain:megasrv.de
 domain:megatitsminka.com
 domain:megavideo.com
 domain:meguk.ac.uk
@@ -19978,6 +19987,7 @@ domain:nicd.ac.uk
 domain:niceanimegames.com
 domain:niceporn.tv
 domain:nicer.ac.uk
+domain:nicesrv.de
 domain:nicesshop.net
 domain:nichepornsite.com
 domain:nichepornsites.com
@@ -21013,6 +21023,7 @@ domain:opencollective.com
 domain:opencreate.org
 domain:opendemocracy.net
 domain:opendn.xyz
+domain:opendns.com
 domain:opendroneid.org
 domain:opened.ac.uk
 domain:openengineeringlaboratory.ac.uk
@@ -21028,6 +21039,7 @@ domain:openlibrary.org
 domain:openmaps.org
 domain:openreality.com
 domain:openresty.org
+domain:openrouter.ai
 domain:opensciencelab.ac.uk
 domain:opensciencelaboratory.ac.uk
 domain:opensea.io
@@ -22528,6 +22540,7 @@ domain:powerphoto.org
 domain:powershape-e.com
 domain:powershape.com
 domain:powershellgallery.com
+domain:powersrv.de
 domain:powersunitedvr.com
 domain:powia.ac.uk
 domain:pp-soc.com
@@ -22957,6 +22970,7 @@ domain:quicinc.com
 domain:quickconnect.to
 domain:quickiepage.com
 domain:quickoffice.com
+domain:quicksrv.de
 domain:quicktake.video
 domain:quicktime.cc
 domain:quicktime.com
@@ -28082,12 +28096,14 @@ domain:ultimaforever.com
 domain:ultimaonline.com
 domain:ultradonkey.com
 domain:ultralab.ac.uk
+domain:ultrasrv.de
 domain:ultrasurf.us
 domain:ultravpn.com
 domain:ultravpn.fr
 domain:ultraxs.com
 domain:umagazine.com.hk
 domain:umass.edu
+domain:umbrella.com
 domain:umds.ac.uk
 domain:umich.edu
 domain:umis.ac.uk
@@ -29752,6 +29768,7 @@ domain:whystudyenglish.ac.uk
 domain:whystudylanguages.ac.uk
 domain:whystudymaterials.ac.uk
 domain:whyx.org
+domain:wi-fi.org
 domain:wias.ac.uk
 domain:wicn.ac.uk
 domain:widevine.com
