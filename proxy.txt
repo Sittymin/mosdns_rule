@@ -181,6 +181,9 @@ domain:1lib.tw
 domain:1mobile.com
 domain:1mobile.tw
 domain:1monsterbeatsbydreus.com
+domain:1password.ca
+domain:1password.com
+domain:1password.eu
 domain:1point3acres.com
 domain:1pondo.tv
 domain:1pornlist.com
@@ -615,6 +618,7 @@ domain:aabb1802.com
 domain:aabb1803.com
 domain:aacrjournals.org
 domain:aadmv.com
+domain:aadrm.com
 domain:aaex.uk
 domain:aalah.me
 domain:aamacau.com
@@ -1055,6 +1059,7 @@ domain:agefans.com
 domain:agemys.org
 domain:agendaweek.com
 domain:agenet.ac.uk
+domain:agilebits.com
 domain:agnesb.fr
 domain:agocg.ac.uk
 domain:agoogleaday.com
@@ -7693,7 +7698,9 @@ domain:difangwenge.org
 domain:dify.ai
 domain:digicert-cn.com
 domain:digicert-validation.com
+domain:digicert.co.jp
 domain:digicert.com
+domain:digicert.eu
 domain:digiland.tw
 domain:digimap.ac.uk
 domain:digisfera.com
@@ -9148,6 +9155,8 @@ domain:enterprisebydesign.ac.uk
 domain:enterprisepaging.com
 domain:enterpriseresearch.ac.uk
 domain:enterprisessl.com
+domain:entrust.cn
+domain:entrust.com
 domain:entrust.net
 domain:entrustdatacard.com
 domain:enveast.ac.uk
@@ -11001,6 +11010,7 @@ domain:full:aod-pod-uk-live.akamaized.net
 domain:full:api-p.videomarket.jp
 domain:full:api.viu.now.com
 domain:full:apl-hamivideo.cdn.hinet.net
+domain:full:apple-tv-plus-press.apple.com
 domain:full:apple.com.akadns.net
 domain:full:appleworldwidedeveloper.hb-api.omtrdc.net
 domain:full:appleworldwidedeveloper.sc.omtrdc.net
@@ -11143,6 +11153,8 @@ domain:full:heads4-ak-spotify-com.akamaized.net
 domain:full:himalaya-exchange.zendesk.com
 domain:full:hl2rcv.adobe.com
 domain:full:hlrcv.stage.adobe.com
+domain:full:hls-amt.itunes.apple.com
+domain:full:hls.itunes.apple.com
 domain:full:homebrew.bintray.com
 domain:full:hpefonts.s3.amazonaws.com
 domain:full:hpstore.corpmerchandise.com
@@ -11184,6 +11196,7 @@ domain:full:netflix.com.edgesuite.net
 domain:full:notary-submissions-prod.s3-accelerate.amazonaws.com
 domain:full:notary-submissions-prod.s3.us-west-2.amazonaws.com
 domain:full:notify.ppy.sh
+domain:full:np-edge.itunes.apple.com
 domain:full:ntp-b.nist.gov
 domain:full:ntp-c.colorado.edu
 domain:full:ntp-d.nist.gov
@@ -11214,6 +11227,7 @@ domain:full:p16-tiktokcdn-com.akamaized.net
 domain:full:paper-attachments.s3.amazonaws.com
 domain:full:pchomeonline.com.tw
 domain:full:pki.google.com
+domain:full:play-edge.itunes.apple.com
 domain:full:poshtestgallery.cloudapp.net
 domain:full:pplx-res.cloudinary.com
 domain:full:practivate.adobe
@@ -11369,6 +11383,7 @@ domain:full:time4.facebook.com
 domain:full:time4.google.com
 domain:full:time5.facebook.com
 domain:full:tmdb-image-prod.b-cdn.net
+domain:full:tv.applemusic.com
 domain:full:tvcastlive-hamivideo.cdn.hinet.net
 domain:full:ubisoft-orbit-savegames.s3.amazonaws.com
 domain:full:ubisoft-uplay-savegames.s3.amazonaws.com
@@ -11380,6 +11395,7 @@ domain:full:ut1-wwv.nist.gov
 domain:full:utcnist.colorado.edu
 domain:full:utcnist2.colorado.edu
 domain:full:utcnist3.colorado.edu
+domain:full:uts-api.itunes.apple.com
 domain:full:ve-dash-uk-live.akamaized.net
 domain:full:ve-uhd-push-uk-live.akamaized.net
 domain:full:venmo.s3.amazonaws.com
@@ -15515,6 +15531,7 @@ domain:iwork.wang
 domain:iwyn138.com
 domain:ixnxx.tv
 domain:ixquick.com
+domain:ixsystems.com
 domain:ixxx.com
 domain:iyalc.com
 domain:iyf.tv
@@ -18166,6 +18183,7 @@ domain:microsoftadvertising.com
 domain:microsoftadvertisingregionalawards.com
 domain:microsoftaffiliates.com
 domain:microsoftapp.net
+domain:microsoftazuread-sso.com
 domain:microsoftazuresponsorships.com
 domain:microsoftcloud.com
 domain:microsoftcloudsummit.com
@@ -21259,6 +21277,9 @@ domain:ozchinese.com
 domain:ozeex.com
 domain:ozodi.org
 domain:ozodlik.org
+domain:ozon.ru
+domain:ozone.ru
+domain:ozonusercontent.com
 domain:ozvoice.org
 domain:ozxw.com
 domain:ozyoyo.com
@@ -21988,6 +22009,8 @@ domain:playbydurex.com
 domain:playcover.io
 domain:player.fm
 domain:playerjs.io
+domain:playfab.com
+domain:playfabapi.com
 domain:playforceone.com
 domain:playhearthstone.com
 domain:playmation.com
@@ -26367,6 +26390,7 @@ domain:syfor.click
 domain:syhacked.com
 domain:sylfoundation.org
 domain:symantec.com
+domain:symauth.com
 domain:symcb.com
 domain:symcd.com
 domain:symonds.ac.uk
@@ -27492,6 +27516,7 @@ domain:truebuddha-md.org
 domain:truedepth3d.com
 domain:truedwg.com
 domain:truefi.io
+domain:truenas.com
 domain:trulyergonomic.com
 domain:trunest.com
 domain:truro-penwith.ac.uk
@@ -28891,6 +28916,7 @@ domain:visa.tc
 domain:visabank.org
 domain:visabg.com
 domain:visabusinessinsights.com
+domain:visaca.com
 domain:visacarddesignlab.com
 domain:visacards.com
 domain:visacheckout.net

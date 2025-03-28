@@ -32322,6 +32322,7 @@ domain:full:content.googleadapis.com
 domain:full:crashlyticsreports-pa.googleapis.com
 domain:full:crl-lb.apple.com.akadns.net
 domain:full:crl.apple.com
+domain:full:crl.globalsign.net
 domain:full:crl.pki.goog
 domain:full:crls.pki.goog
 domain:full:csi.gstatic.com
@@ -32718,6 +32719,7 @@ domain:full:www.apple.com
 domain:full:www.apple.com.edgekey.net
 domain:full:www.apple.com.edgekey.net.globalredir.akadns.net
 domain:full:www.destinationurl.com
+domain:full:www.entrust.cn
 domain:full:www.googleadapis.com
 domain:full:www.gstatic.com
 domain:full:www.libvideo.com
