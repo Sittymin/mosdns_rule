@@ -4837,6 +4837,7 @@ domain:bravotube.tv
 domain:brawlstars.com
 domain:brawlstarsgame.com
 domain:brazilpartneruniversity.com
+domain:brazz.org
 domain:brazzer.com
 domain:brazzers-porno.online
 domain:brazzers-xxx.net
@@ -9501,6 +9502,7 @@ domain:excitebots.com
 domain:exe-coll.ac.uk
 domain:exec-appointments.com
 domain:exemplashe.ac.uk
+domain:exeporn.net
 domain:exeter.ac.uk
 domain:exetercollege.ac.uk
 domain:exeterdeafacademy.ac.uk
@@ -13596,6 +13598,7 @@ domain:hnjhj.com
 domain:hnntube.com
 domain:hobonichielog.com
 domain:hochi.news
+domain:hochu.tv
 domain:hoes.com
 domain:hogarth.ac.uk
 domain:hoge.7jp.info
@@ -16694,6 +16697,7 @@ domain:lemoncams.com
 domain:lemonde.fr
 domain:lencr.org
 domain:lenkino.xxx
+domain:lenporno.net
 domain:lenporno.red
 domain:lenwhite.com
 domain:leorockwell.com
@@ -29371,6 +29375,7 @@ domain:vsezoo.com
 domain:vsphere.com
 domain:vsphere.net
 domain:vssn.ac.uk
+domain:vtrahe.page
 domain:vtri.ac.uk
 domain:vts.ac.uk
 domain:vtsociety.org
@@ -30798,6 +30803,7 @@ domain:yaddal.tv
 domain:yadi.sk
 domain:yadori.club
 domain:yaeby.info
+domain:yaeby.pro
 domain:yahoo
 domain:yahoo-news.com.hk
 domain:yahoo.ae
