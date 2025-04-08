@@ -24948,7 +24948,11 @@ domain:sigmoidoscopeexam.com
 domain:sign.ac.uk
 domain:sign.new
 domain:signal.art
+domain:signal.group
+domain:signal.link
+domain:signal.me
 domain:signal.org
+domain:signal.tube
 domain:signalbar.com
 domain:signalprocessingsociety.org
 domain:signalr.net
