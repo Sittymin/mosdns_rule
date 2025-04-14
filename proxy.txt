@@ -9933,6 +9933,7 @@ domain:fanhaodang.com
 domain:fanhaodian.com
 domain:fanhaolou.com
 domain:fanhowab.buzz
+domain:fani.com
 domain:fank.ru
 domain:fanleakstoday.com
 domain:fanqiang.network
@@ -10043,6 +10044,7 @@ domain:fasttrackreadysupport.com
 domain:fatbtc.com
 domain:fatstube.com
 domain:fault-analysis-group.ac.uk
+domain:favcomic.com
 domain:favebook.com
 domain:favelaporno.com
 domain:favepornmovs.com
@@ -12833,6 +12835,7 @@ domain:gyutto.com
 domain:gzm.tv
 domain:gzone-anime.info
 domain:h-china.org
+domain:h-ciyuan.com
 domain:h-doujinshi.xyz
 domain:h-flash.com
 domain:h-moe.com
@@ -17572,6 +17575,7 @@ domain:mantais.ac.uk
 domain:mantochichi.com
 domain:manufacturingedc.ac.uk
 domain:manurefetish.com
+domain:manwa.me
 domain:manytoon.com
 domain:manyvids.com
 domain:manyvoices.news
@@ -25468,6 +25472,7 @@ domain:sostibet.org
 domain:sothebys-institute.ac.uk
 domain:soton.ac.uk
 domain:sots.ac.uk
+domain:sotwe.com
 domain:soubory.com
 domain:souka.xyz
 domain:soul-plus.net
@@ -25713,6 +25718,7 @@ domain:ssl.com
 domain:ssl.webpack.de
 domain:ssl443.org
 domain:sslpaypal.org
+domain:ssm.fun
 domain:ssmh.ac.uk
 domain:sspanel.net
 domain:sspc.ac.uk
@@ -27046,6 +27052,7 @@ domain:thornbeck.ac.uk
 domain:thotbook.tv
 domain:thothub.ru
 domain:thothub.to
+domain:thotsbay.tv
 domain:thottok.com
 domain:thotvids.com
 domain:threadreaderapp.com
@@ -28413,6 +28420,7 @@ domain:v-has.com
 domain:v-resort.ac.uk
 domain:v.gd
 domain:v2.help
+domain:v2.hysteria.network
 domain:v2ex.com
 domain:v2fly.org
 domain:v2ph.com
