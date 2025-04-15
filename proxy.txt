@@ -306,6 +306,7 @@ domain:3dtin.com
 domain:3dtin.net
 domain:3go.fun
 domain:3hentai.net
+domain:3lateral.com
 domain:3lib.net
 domain:3movs.com
 domain:3movs.xyz
@@ -840,6 +841,7 @@ domain:adguard.com
 domain:adguard.info
 domain:adguard.io
 domain:adguard.org
+domain:adguardaccount.com
 domain:adguardvpn.com
 domain:adhelpnews.com
 domain:adidas.at
@@ -2849,6 +2851,7 @@ domain:awjq.cc
 domain:awlc.ac.uk
 domain:aws
 domain:aws-iot-hackathon.com
+domain:aws.com
 domain:awsautopilot.com
 domain:awsautoscaling.com
 domain:awsbraket.com
@@ -5517,6 +5520,7 @@ domain:capitalgames.com
 domain:capitaliq.com
 domain:capitalisingoncreativity.ac.uk
 domain:capsule.ac.uk
+domain:capturingreality.com
 domain:carabinasypistolas.com
 domain:carbo-biocrop.ac.uk
 domain:carbobiocrop.ac.uk
@@ -6224,6 +6228,7 @@ domain:chuporno.com
 domain:churchill.ac.uk
 domain:churchinhongkong.org
 domain:chushigangdrug.ch
+domain:chutes.ai
 domain:chutuno.fun
 domain:chuzs2.xyz
 domain:chwr7s8u.com
@@ -7105,6 +7110,7 @@ domain:cttoolkit.ac.uk
 domain:ctv.com.tw
 domain:ctwant.com
 domain:ctyun.online
+domain:cubicmotion.com
 domain:cubo.ac.uk
 domain:cuc.ac.uk
 domain:cuckfilmswifefuck.com
@@ -9573,6 +9579,7 @@ domain:faacebook.com
 domain:faam.ac.uk
 domain:faapy.com
 domain:faasbook.com
+domain:fab.com
 domain:fabhairypussy.com
 domain:fablabplymouth.ac.uk
 domain:fabricmc.net
@@ -11374,6 +11381,7 @@ domain:full:time-e-b.nist.gov
 domain:full:time-e-g.nist.gov
 domain:full:time-e-wwv.nist.gov
 domain:full:time.apple.com
+domain:full:time.aws.com
 domain:full:time.euro.apple.com
 domain:full:time.facebook.com
 domain:full:time.google.com
@@ -14224,6 +14232,7 @@ domain:hypnohub.net
 domain:hypnoporn.net
 domain:hypnotube.com
 domain:hypothes.is
+domain:hyprsense.com
 domain:hysbys.ac.uk
 domain:hzmn.net
 domain:i-123-hp.com
@@ -18644,6 +18653,7 @@ domain:misskey.yukineko.me
 domain:misskeyusercontent.jp
 domain:mist.ac.uk
 domain:mist.vip
+domain:mistral.ai
 domain:mistresskym.com
 domain:mit
 domain:mit.edu
@@ -23018,6 +23028,8 @@ domain:quip.com
 domain:quipelements.com
 domain:quitccp.net
 domain:quitccp.org
+domain:quixel.com
+domain:quixel.se
 domain:quiz.directory
 domain:qumingwz.com
 domain:qumrancavesdispersed.ac.uk
@@ -23063,6 +23075,7 @@ domain:racked.com
 domain:rad-sat.ac.uk
 domain:rada.ac.uk
 domain:radeon.com
+domain:radgametools.com
 domain:radian6.com
 domain:radicalparty.org
 domain:radiko.jp
@@ -23288,6 +23301,7 @@ domain:realgfporn.com
 domain:realisingopportunities.ac.uk
 domain:reality-computing.com
 domain:realitykings.com
+domain:realityscan.com
 domain:reallesbianexposed.com
 domain:reallifemethods.ac.uk
 domain:realmaturesfuck.com
@@ -25086,6 +25100,7 @@ domain:sketchbookdesigner.com
 domain:sketchbookmobile.com
 domain:sketchbooknews.com
 domain:sketchbookpro.com
+domain:sketchfab.com
 domain:skillsbridge.ac.uk
 domain:skillscompetitionwales.ac.uk
 domain:skillsgroupuk.ac.uk
@@ -27815,6 +27830,7 @@ domain:twindexx.com
 domain:twinkboyfriends.tv
 domain:twinkspornos.com
 domain:twinkybf.com
+domain:twinmotion.com
 domain:twinprime.com
 domain:twinsuk.ac.uk
 domain:twip.me
@@ -31213,6 +31229,7 @@ domain:youshun12.com
 domain:youskbe.com
 domain:youthforfreechina.org
 domain:youthnetradio.org
+domain:youtrack.cloud
 domain:youtrannytube.com
 domain:youtu.be
 domain:youtube

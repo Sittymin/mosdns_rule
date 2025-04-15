@@ -34405,6 +34405,7 @@ domain:eszyb.com
 domain:eszzxxz.com
 domain:et-api.com
 domain:et-fine.com
+domain:et001.com
 domain:et363.com
 domain:et59.com
 domain:et998.com
@@ -37979,6 +37980,7 @@ domain:full:tesla-cdn.thron.cn
 domain:full:test.bugs-qa.chromium.org
 domain:full:test.gbugs-qa.chromium.org
 domain:full:tf-feedback.itunes.apple.com
+domain:full:time.amazonaws.cn
 domain:full:time.izatcloud.net
 domain:full:time.xtracloud.net
 domain:full:tj-pod1-smp-device.apple.com
@@ -41874,6 +41876,7 @@ domain:guahaoe.com
 domain:guahaowang.com
 domain:guaiguai.com
 domain:guaihou.com
+domain:guaiku.com
 domain:guaileicp.com
 domain:guaili.org
 domain:guailuo.com
@@ -70644,6 +70647,7 @@ domain:mingxigu.com
 domain:mingxingbobbin.com
 domain:mingxingku.com
 domain:mingxinglai.com
+domain:mingxuan.store
 domain:mingxuanxz.com
 domain:mingya.mobi
 domain:mingyafeng.com
