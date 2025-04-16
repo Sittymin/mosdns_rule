@@ -13382,6 +13382,7 @@ domain:hetzner.cloud
 domain:hetzner.com
 domain:hetzner.company
 domain:hetzner.de
+domain:hetzner.social
 domain:heungkongdiscuss.com
 domain:hew.ac.uk
 domain:hewit.ac.uk
