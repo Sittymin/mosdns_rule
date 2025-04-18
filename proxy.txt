@@ -176,6 +176,7 @@ domain:1lib.education
 domain:1lib.eu
 domain:1lib.limited
 domain:1lib.pl
+domain:1lib.sk
 domain:1lib.to
 domain:1lib.tw
 domain:1mobile.com
@@ -12206,6 +12207,7 @@ domain:go-lang.com
 domain:go-lang.net
 domain:go-lang.org
 domain:go-pki.com
+domain:go-to-library.sk
 domain:go-to-zlibrary.se
 domain:go.com
 domain:go.dev
@@ -15462,6 +15464,7 @@ domain:ita-do.com
 domain:itaboo.info
 domain:itaeromanga.com
 domain:italiabeatsbydrdre.com
+domain:italian-books.sk
 domain:italiatibet.org
 domain:itasoftware.com
 domain:itcanwait.com
@@ -31449,9 +31452,13 @@ domain:yyjlymb.xyz
 domain:yysub.net
 domain:yzld188.top
 domain:yzzk.com
+domain:z-lib.gd
+domain:z-lib.gs
 domain:z-lib.io
 domain:z-lib.org
+domain:z-lib.ps
 domain:z-library.se
+domain:z-library.sk
 domain:z00.world
 domain:z18r.co
 domain:z18r.com
